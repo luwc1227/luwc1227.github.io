@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-26T07:29:54.031Z</updated>
+  <updated>2018-04-13T03:02:00.579Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>css3-flexbox（弹性盒子）</title>
+    <link href="http://yoursite.com/2018/04/13/css3-flexbox/"/>
+    <id>http://yoursite.com/2018/04/13/css3-flexbox/</id>
+    <published>2018-04-13T13:14:06.000Z</published>
+    <updated>2018-04-13T03:02:00.579Z</updated>
+    
+    <summary type="html">
+    
+      css3弹性盒子布局
+    
+    </summary>
+    
+      <category term="卢文才" scheme="http://yoursite.com/categories/%E5%8D%A2%E6%96%87%E6%89%8D/"/>
+    
+    
+      <category term="css3，flexbox" scheme="http://yoursite.com/tags/css3%EF%BC%8Cflexbox/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
